@@ -1,2 +1,0 @@
-for every event set or unset somthing flag
-first specefic logic flag and care to set or unset  in good piece of code
